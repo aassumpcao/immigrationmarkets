@@ -4,22 +4,33 @@ author  : 'Andre Assumpcao'
 date    : Dec 31, 2018
 abstract: TBU.
 output  : 
-  # word_document: 
-  #   reference_docx: template.docx 
-  pdf_document:
-    number_sections: TRUE
-
+  word_document: 
+    reference_docx: template.docx 
+  # pdf_document:
+  #   number_sections: TRUE
 ---
 \clearpage
 
-# Introduction
+## Introduction {#intro}
 
 Suppose the NFL Commissioner decides to distribute Super Bowl tickets under a rules-based system. Fans are now required to submit a form with personal information, education levels, current and previous employment, their skills, and answers to questions on why they think they should be given a ticket to attend the Super Bowl. You can quickly see how problematic this system is. The NFL would need additional staff to process the paperwork and assess every applicant against each other, rank them, and finally assign tickets based on internal criteria unbeknownst to applicants.
 
-Alternatively, suppose now the U.S. Citizenship and Immigration Services (USCIS) Director decides to distribute visas under a price system. The USCIS publishes a schedule of visas and their respective prices, applicants review visa conditions, and submit forms and the visa fee to the USCIS. Unless there are red flags with one's application, the USCIS approves the candidate's application and they are allowed into the United States. You are also likely to oppose this proposal, fearing that ill-intended individuals will apply and that this policy discriminates against poor people who cannot afford visa prices.
+Alternatively, suppose now the U.S. Citizenship and Immigration Services (USCIS) Director decides to distribute visas under a price system. The USCIS publishes a schedule of visas and their respective prices, applicants review visa conditions, submit forms, and the visa fee to the USCIS. Unless there are red flags with one's application, the USCIS approves the candidate's application and they are allowed entry into the United States. People are also likely to oppose this proposal, fearing that ill-intended individuals will apply and that this policy discriminates against poor people who cannot afford visas.
 
-Why do we generally accept prices mediating the exchange for seats at the Super Bowl but not rules? Why do we generally accept rules mediating the exchange for visas in the USCIS but not prices? This is an inconsistent belief, to say the least. In this essay, I argue that governments should sell visas to prospective immigrants. In fact, a market for visas is not only morally permissible but it improves upon current immigration policies: it is a more transparent system and it is a source of monetary compensation for destination communities adversely affected by immigration flows. To that end, I show that visa markets do not corrupt citizenship values, in line with Hidalgo,^[Hidalgo, 2016.] sketch a simple utilitarian calculation showing how such markets increase overall wellbeing, discuss how we accept markets for similar exchanges, detail compensatory measures, and address the multiple objections to this proposal. This analysis aims at unifying the moral and economic argument for visa markets.
+Why do we generally accept prices mediating the exchange for seats at the Super Bowl but would oppose such rules? Why do we generally accept rules mediating the exchange for visas in the USCIS but would oppose such prices? This is an inconsistent belief, to say the least. In this essay, I argue that governments should sell visas to prospective immigrants. I supplement the reasoning in Becker,^[Becker, 2011] Hidalgo^[Hidalgo, 2016] and Freiman^[Freiman, 2017] and contribute an utilitarian argument in favor of such markets. In fact, the utilitarian supplement developed here is the missing piece for unifying the support for immigration markets across philosophy and economics. The argument constructed here has four main pillars: (i) immigration markets are no less discriminatory than existing policies; (ii) they create compensation mechanisms for negative, localized distributional effects of immigration; (iii) they increase social welfare for both sending and receiving communities; (iv) they are compatible with both open and closed borders approaches to immigration.
 
-Gary Becker^[Becker, 1997 IEA] first introduced the idea for an immigration market. He suggested that countries would benefit from charging a market price for immigration ($50,000 in his seminal example) because they would attract the individuals most likely to succeed, i.e. those who expect positive returns to migration, and the revenue raised with this measure would be used to lower other taxes. Occupations with labor shortages could command lower prices and poor people could borrow the money against future earnings and thus would not be excluded from the market. Becker's positive view of immigration indeed has been confirmed by his fellow economists. Giovanni Peri^[Peri, 2005 and Peri, 2016] and Michael Clemens^[Clemens, 2011] are but two of the scholars providing robust evidence that immigration is net beneficial and thus should be incentivized.^[There is an ongoing debate between economists, most notably Giovanni Peri, David Card, and Michael Clemens on one side and George Borjas on the other, on the consequences of immigration for receiving communities in terms of domestic labor wages, unemployment rates, and other economic outcomes. I believe that the existing evidence is substantially in favor of the former group and thus take it as the most consistent evidence available.]
+Gary Becker^[Becker, 1997 IEA] first introduced the idea for an immigration market. He suggested that countries would benefit from charging a market price for immigration ($50,000 in his seminal example) because they would attract the individuals most likely to succeed, i.e. those who expect positive returns to migration, and the revenue raised with this measure would be used to lower other taxes. Occupations with labor shortages could command lower prices and poor people could borrow the money against future earnings and thus would not be excluded from the market. I develop Becker's^[Also discuss Julian Simon] argument further by discussing the compensatory mechanism and welfare improvement when compared to existing policies.
+
+The moral defense of citizenship markets was recently debated by Javier Hidalgo^[Hidalgo, 2016] and Christopher Freiman^[Freiman, 2017], in which they put forward the argument in favor of a public and a private citizenship market. I modify their proposal and suggest a temporary visa, rather than permanent citizenship, exchange since it further alleviates objections to the market solution. I intend to show that, indeed, a visa market could be implemented as of this moment.
+
+The remaining of this paper is as follows. In section [2](#section1), I compare the discriminatory elements of both immigration markets and existing policies; in section [3](#section2), I sketch compensatory mechanisms; in section [4](#section3), I show how markets can produce net welfare both for sending and receiving communities; section [5](#section4) discusses how such markets can adjust to both open and closed borders approaches to immigration; section [6](#conclusion) concludes.
+
+## Argument 1: Immigration markets are no less discriminatory than existing policies {#section1}
  
+## Argument 2: Immigration markets creates compensation mechanisms for negatively affected communities {#section2}
+ 
+## Argument 3: Immigration markets increase social welfare for sending and receiving communities {#section3}
+ 
+## Argument 4: Immigration markets are compatible with both open and closed-border approaches to immigration {#section4}
 
+## Conclusion {#conclusion}
