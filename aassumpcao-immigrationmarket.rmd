@@ -71,8 +71,24 @@ Some might object to this policy because of market dynamics. If governments let 
 
 A second objection would be the fact that very poor migrants are always priced out of visas regardless of price levels simply because there are too many poor people who cannot afford a visa in any case. This is an interesting objection, but it is better addressed in section [6](#section4), in which I discuss how markets for visas are compatible with open and closed borders arguments.
 
-# Argument 2: Visa markets creates compensation mechanisms for negatively affected communities {#section2}
- 
+# Argument 2: Visa markets create compensation mechanisms for negatively affected communities {#section2}
+
+The first utilitarian contribution in this essay is the claim that visa markets create compensation mechanisms for communities that are negatively affected by immigration. Though classic utilitarianism might not be concerned with the distribution of net benefits, I adopt a realistic approach in which preferences for redistribution are also an important determinant of individual wellbeing and collectively determine net utility. In fact, there is substantial empirical evidence in support of preferences for redistribution in the social sciences.^[Forsythe, 1994. Andreoni et al, 2003. Camerer, 2003. Alesina and Giuliano, 2011.] ;^[Alesina and Giuliano 2011 suggest that inequality can affect individual utilities indirectly -- an increase in inequality causes crime rates to rise such that individuals are more likely to experience a crime event -- or directly -- people just genuinely do not like poverty and feel bad that others have to live such life.] This egalitarian twist, however, does not take away from the classic utilitarian analysis in section [5](#section3).
+
+Suppose there is a new Mariel boatlift-like event but this time all boats are full of skilled migrants. In the course of six months, there are 125,000 Cuban software engineers seeking jobs in Miami, FL. At the very least, these immigrants need housing and food. Immediate shortages are likely such that Miami residents bear most of the negative effects of immigration (compared to someone living in Tallahassee, for instance). As long as immigration is spatially concentrated, some regions bear relatively more of the consequences than others.^[Note there are no constraints on the type of effect neither on its duration. It could well be that city residents dislike newcomers or that, in the long term, these impacts fade out. The spatial concentration of migrants suffices for creating the disparity in effects.] Therefore, immigrants impose an unconditional and immediate burden on the receiving community.
+
+How best to address the immediate problem? State and city governments could find public housing for these engineers. Grocery stores or residents could set-up food drives and deliver food to public housing units. Whatever alternative we find, however, is based on redistribution of resources from the community to the migrants. Using state funds to house migrants, for instance, is even further redistribution from taxpayers in regions unaffected by migration to Miami and the software engineers. Note that these migrants are not entitled to such transfers. Florida residents have not wronged the migrants in any way such that no compensation claims exist and migrants have willingly decided to leave Cuba and tacitly accepted the consequences of their actions, including sleeping on the streets. If anything, the harm imposing agents are the engineers and they should compensate Miami residents. A market for visas creates such mechanism without disproportionately harming the migrants. The argument is structured as follows:
+
+  1. A spatially concentrated flow of immigrants can impose harm on the residents of the receiving community.
+  2. In the presence of harm, immigrants should compensate non-migrants.
+  3. The redistribution of visa market revenues are one such compensation mechanism.
+  4. Therefore, markets for visas are welfare-increasing for immigrant-receiving communities.
+
+Premise 1 is described in the paragraphs above. Robert Nozick's well-established definition of compensation supports premise 2.^[According to Nozick, an individual A should compensate an individual B if A's action Y crossed the boundary of B's individual domain without B's consent. The compensation for A's action is the reestablishment of B's wellbeing if A had not done Y.] Premise 3 follows from the 
+
+
+The economic version of the compensation principle requires that gainers compensate losers for their loss if the former remain at least as well off as before. If this 
+
 # Argument 3: Visa markets can increase social welfare for sending and receiving communities {#section3}
  
 # Argument 4: Visa markets are compatible with both open and closed borders approaches to immigration {#section4}
