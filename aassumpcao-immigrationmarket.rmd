@@ -4,12 +4,11 @@ author  : 'Andre Assumpcao'
 date    : 'Dec 31, 2018'
 abstract: 'In this paper, I propose the creation of visa markets and claim they are a radical and fair solution to immigration policy. This idea is not new and has been previously proposed, with minor differences, by Gary Becker, Julian Simon, and Javier Hidalgo. Nevertheless, I contribute two additional utilitarian arguments in favor of immigration markets which are fundamental in bringing together the empirical and the normative claims for immigration markets. Lastly, I show that such exchanges are consistent with both open and closed borders approaches to immigration such that any government would benefit from their adoption regardless of whether they subscribe to the right to migration or not.'
 output  : 
-  # word_document: 
-  #   reference_docx: template.docx
-  pdf_document:
-    number_sections: FALSE
+  word_document: 
+    reference_docx: template.docx
+  # pdf_document:
+  #   number_sections: TRUE
 ---
-\clearpage
 
 # Introduction {#intro}
 
@@ -100,7 +99,18 @@ In what way would then a market for visas unlock these increases in economic wel
 
 # Argument 4: Visa markets are compatible with both open and closed borders approaches to immigration {#section4}
 
+I lastly claim that visa markets are compatible with either open or closed borders argument. I show that the legitimacy of visa markets is independent of the legitimacy of the right to exclude. I should stress out, however, that a market for visas is not the same as a *free* market for visas, in which case even terrorists or other criminals could buy their way in. Beginning in Joseph Carens's seminal paper,^[Carens, 1987] all open borders scholars seem to converge to the position that criminals do not have an equal moral claim to the right to migrate. In Caren's piece, he discusses the libertarian, Rawlsian, and utilitarian cases for immigration and provides evidence in each of such views for permissible restrictions only under special circumstances. Therefore, I uncontroversially accept that a market for visas can also exclude certain individuals from buying their temporary permits to enter, stay, or leave under the same token.
 
+Why would open borders advocates object to visa markets? They would first claim that placing a price on migration is morally wrong by arguing that the freedom of movement is a human right and States cannot auction them off to the highest bidder; in other words, such *erga omnes* rights precede the existence of the State and trump sovereignty. This is not, however, an opposition to the adoption of market mechanisms. Rather, it is an opposition to *market systems with positive prices*, which is just a special case of the radical and fair solution.
+
+I suggest we interpret human rights just like a good traded at markets. We transact human rights on a daily basis, but we do so subconsciously. Individuals are both producers and consumers of these rights. As a human being, I naturally produce the right to bodily integrity and distribute across my fellow humans in exchange for the same rights from others. We mutually exchange safety from physical harm. These transactions occur at price zero and last indefinitely. Supply and demand are unlimited. However, the fact that these transactions happen implicitly does not strip them from market properties. Systematic violations of human rights can be understood as humans who refuse or fail to honor these exchanges. They throw away all their natural production of rights and we collectively face a supply shortage.
+
+If immigration is a human right, then open borders theorists are satisfied by an immigration price of zero for an infinite amount of time. Applicants sign up to visas and states assign them these rights, regardless of individual characteristics, willingness to pay, or expected net income. Whoever wants to immigrate is allowed to. All of the elements that are dear to open borders theorists are compatible with in a market for visas with zero prices. What they actually oppose, therefore, are positive prices. The provision of a right in exchange for a (positive) monetary amount is their issue. This brings us to their real question: are positive prices of migration violations of human rights? If they are singled out as the only selection criterion, then we could plausibly say yes. Returning to the point in section [2](#section3), poor people that cannot afford a visa are effectively excluded from migration.
+
+I thus recommend that governments establish market systems at the same time *as supplying alternatives for those who cannot afford to pay for immigration*, such as loans or tax liabilities against future income. In this sense, government is stepping in to solve the intertemporal financial constraint but still require compensation from migrants for immediate negative effects.
+Rather than asking "do I have the means to immigrate to A?," migrants will be asking "does the benefit of immigrating to A exceed its costs?," which is precisely what they already ask themselves. Positive prices are just a more transparent way to answer this question. Under current policies, costs are largely non-monetary, so migrants cannot precisely answer this question. Unless open border theorists suggest such intertemporal constraint alleviation mechanisms are not permitted, there is no inconsistency with the radical and fair solution.^[Open borders supporters might still claim that loans are not permissible because they condition the respect for human rights to the repayment of the loan. The problem with such argument, however, is that it  ignores that human rights are produced individually and exchanged as we interact with one another. It is only produced when we engage with someone else. The alternatives for affording a visa, however, are just governments facilitating these exchanges.]
+
+For closed borders scholars, the argument is straightforward. If states have a legitimate right to exclude, and as discussed above a market for visas is not any worse than other acceptable forms of discriminatory immigration policies, then excluding via price systems should also be permissible. The higher the price, the larger is the barrier imposed to migration. Coupled with the alternatives to fund visas, the exclusion of prospective immigrants remains more closely related to their expected future returns of immigration rather than current wealth.
 
 # Conclusion {#conclusion}
 
