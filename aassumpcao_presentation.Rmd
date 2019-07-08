@@ -1,17 +1,19 @@
 ---
-title    : 'Markets for Visas:'
+title    : 'Markets for Visas'
 subtitle : A Radical and Fair Approach to Immigration
 author   : Andre Assumpcao
 institute: UNC-Chapel Hill
+fontsize : 10pt
 date     : March 29\textsuperscript{th}, 2019
-output   : 
+output   :
   beamer_presentation:
-    theme     : 'Madrid'
-    colortheme: 'default'    
+    theme     : 'UNCMath'
+    keep_tex  : true
 header-includes:
   - \usepackage{hyperref}
-  - \hypersetup{colorlinks = true, linkcolor = white, urlcolor = blue}
+  - \hypersetup{colorlinks = true, linkcolor = black, urlcolor = blue}
   - \usepackage{graphicx}
+  # - \usepackage{epstopdf}
 ---
 
 # Motivation {#motivation}
@@ -25,24 +27,30 @@ header-includes:
 - Christopher Freiman: ***private* sale of citizenship.** \
 
 - This paper:
-\bigskip 
+\bigskip
     #. Shifts the emphasis from citizenship to **visa markets**;
-    
+
     #. **Develops the utilitarian argument** for visa markets.
 
-# Argument 1: Visa markets are no less discriminatory than existing policies {#arg1}
+# Argument 1: {#arg1}
+
+**Visa markets are no less discriminatory than existing policies** 
+
+\bigskip
 
   #. A market for visas is a discriminatory policy. \
-  
+
   #. Some forms of immigration discrimination are permissible. \
-  
+
   #. In fact, there are certain discriminatory immigration policies currently enacted. \
-  
+
   #. A market for visas does not excessively discriminate beyond certain existing immigration policies. \
-  
+
   #. Therefore, the adoption of a market for visas is morally equivalent to current discriminatory immigration policies.
 
-# Argument 2: Visa markets create compensation mechanisms for negatively-affected communities {#arg2}
+# Argument 2: {#arg2}
+
+**Visa markets create compensation mechanisms for negatively-affected communities**
 
   #. A spatially concentrated flow of immigrants can impose harm on the residents of receiving communities. \
 
@@ -55,26 +63,26 @@ header-includes:
 # Argument 3: Visa markets quickly increase social welfare for sending and receiving communities {#arg3}
 
 **Empirical claims:**
- 
+
   #. Immigration increases productivity and scientific innovation (destination countries). \
-  
+
   #. Immigration increases remittances and investments in human capital (source countries). \
-  
+
   #. Immigration increases trade flows (source and destination countries). \
-  
+
 **Visa markets:**
 
   #. Incentivize immigration (bring SMg closer to PMg). \
 
   #. Allow for quicker realization of welfare gains (from long to short term benefits).
-    
+
 # Argument 4: Visa markets are compatible with both open and closed borders approaches to immigration {#arg4}
 
 - **Positive prices:** right to exclude is preserved. \
 \bigskip
     + The establishment of loan and tax liabilities programs prevents unfair discrimination against the poor. \
 \bigskip
-- **Zero prices:** right to exclude is absent.  
+- **Zero prices:** right to exclude is absent.
 
 # Conclusion
 
@@ -85,11 +93,11 @@ header-includes:
     #. ...an argument in favor of **unregulated, free markets** for visas. \
 \medskip
     #. ...suggesting any specific **market design**. \
-\bigskip    
+\bigskip
 - This paper is... \
 \bigskip
     #. ...claiming that **visa markets are better** than some existing immigration policies. \
-\medskip    
+\medskip
     #. ...bringing together **normative and utilitarian** arguments for visa markets. \
 \medskip
     #. ...suggesting **visa markets should be seriously considered** as immigration policy options.

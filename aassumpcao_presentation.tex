@@ -1,0 +1,284 @@
+\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[10pt,ignorenonframetext,]{beamer}
+\usepackage{pgfpages}
+\setbeamertemplate{caption}[numbered]
+\setbeamertemplate{caption label separator}{: }
+\setbeamercolor{caption name}{fg=normal text.fg}
+\beamertemplatenavigationsymbolsempty
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provides euro and other symbols
+\else % if luatex or xelatex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+\usetheme[]{UNCMath}
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage[]{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\usepackage{hyperref}
+\hypersetup{
+            pdftitle={Markets for Visas},
+            pdfauthor={Andre Assumpcao},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\newif\ifbibliography
+% Prevent slide breaks in the middle of a paragraph:
+\widowpenalties 1 10000
+\raggedbottom
+\setbeamertemplate{part page}{
+\centering
+\begin{beamercolorbox}[sep=16pt,center]{part title}
+  \usebeamerfont{part title}\insertpart\par
+\end{beamercolorbox}
+}
+\setbeamertemplate{section page}{
+\centering
+\begin{beamercolorbox}[sep=12pt,center]{part title}
+  \usebeamerfont{section title}\insertsection\par
+\end{beamercolorbox}
+}
+\setbeamertemplate{subsection page}{
+\centering
+\begin{beamercolorbox}[sep=8pt,center]{part title}
+  \usebeamerfont{subsection title}\insertsubsection\par
+\end{beamercolorbox}
+}
+\AtBeginPart{
+  \frame{\partpage}
+}
+\AtBeginSection{
+  \ifbibliography
+  \else
+    \frame{\sectionpage}
+  \fi
+}
+\AtBeginSubsection{
+  \frame{\subsectionpage}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\usepackage{hyperref}
+\hypersetup{colorlinks = true, linkcolor = black, urlcolor = blue}
+\usepackage{graphicx}
+
+\title{Markets for Visas}
+\providecommand{\subtitle}[1]{}
+\subtitle{A Radical and Fair Approach to Immigration}
+\author{Andre Assumpcao}
+\providecommand{\institute}[1]{}
+\institute{UNC-Chapel Hill}
+\date{March 29\textsuperscript{th}, 2019}
+
+\begin{document}
+\frame{\titlepage}
+
+\begin{frame}{Motivation}
+\protect\hypertarget{motivation}{}
+
+\begin{itemize}
+\item
+  Super Bowl vs.~USCIS example.\\
+\item
+  Gary Becker: \textbf{immigration markets.}\\
+\item
+  Javier Hidalgo: \textbf{\emph{public} sale of citizenship.}\\
+\item
+  Christopher Freiman: \textbf{\emph{private} sale of citizenship.}\\
+\item
+  This paper: \bigskip
+
+  \begin{enumerate}
+  \item
+    Shifts the emphasis from citizenship to \textbf{visa markets};
+  \item
+    \textbf{Develops the utilitarian argument} for visa markets.
+  \end{enumerate}
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}{Argument 1:}
+\protect\hypertarget{arg1}{}
+
+\textbf{Visa markets are no less discriminatory than existing policies}
+
+\bigskip
+
+\begin{enumerate}
+\item
+  A market for visas is a discriminatory policy.\\
+\item
+  Some forms of immigration discrimination are permissible.\\
+\item
+  In fact, there are certain discriminatory immigration policies
+  currently enacted.\\
+\item
+  A market for visas does not excessively discriminate beyond certain
+  existing immigration policies.\\
+\item
+  Therefore, the adoption of a market for visas is morally equivalent to
+  current discriminatory immigration policies.
+\end{enumerate}
+
+\end{frame}
+
+\begin{frame}{Argument 2:}
+\protect\hypertarget{arg2}{}
+
+\textbf{Visa markets create compensation mechanisms for
+negatively-affected communities}
+
+\begin{enumerate}
+\item
+  A spatially concentrated flow of immigrants can impose harm on the
+  residents of receiving communities.\\
+\item
+  In the presence of harm, immigrants should compensate non-migrants.\\
+\item
+  Markets for visas create an additional source of government revenue
+  which can be used to compensate for immigration harms with no effect
+  on other expenditures.\\
+\item
+  Therefore, markets for visas are welfare-increasing for
+  immigrant-receiving communities.
+\end{enumerate}
+
+\end{frame}
+
+\begin{frame}{Argument 3: Visa markets quickly increase social welfare
+for sending and receiving communities}
+\protect\hypertarget{arg3}{}
+
+\textbf{Empirical claims:}
+
+\begin{enumerate}
+\item
+  Immigration increases productivity and scientific innovation
+  (destination countries).\\
+\item
+  Immigration increases remittances and investments in human capital
+  (source countries).\\
+\item
+  Immigration increases trade flows (source and destination
+  countries).\\
+\end{enumerate}
+
+\textbf{Visa markets:}
+
+\begin{enumerate}
+\item
+  Incentivize immigration (bring SMg closer to PMg).\\
+\item
+  Allow for quicker realization of welfare gains (from long to short
+  term benefits).
+\end{enumerate}
+
+\end{frame}
+
+\begin{frame}{Argument 4: Visa markets are compatible with both open and
+closed borders approaches to immigration}
+\protect\hypertarget{arg4}{}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Positive prices:} right to exclude is preserved.\\
+  \bigskip
+
+  \begin{itemize}
+  \tightlist
+  \item
+    The establishment of loan and tax liabilities programs prevents
+    unfair discrimination against the poor.\\
+    \bigskip
+  \end{itemize}
+\item
+  \textbf{Zero prices:} right to exclude is absent.
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}{Conclusion}
+\protect\hypertarget{conclusion}{}
+
+\begin{itemize}
+\tightlist
+\item
+  This paper is \textbf{not}\ldots{}\\
+  \bigskip
+
+  \begin{enumerate}
+  \tightlist
+  \item
+    \ldots{}asking for \textbf{all immigration} policies to be replaced
+    by markets.\\
+    \medskip
+  \item
+    \ldots{}an argument in favor of \textbf{unregulated, free markets}
+    for visas.\\
+    \medskip
+  \item
+    \ldots{}suggesting any specific \textbf{market design}.\\
+    \bigskip
+  \end{enumerate}
+\item
+  This paper is\ldots{}\\
+  \bigskip
+
+  \begin{enumerate}
+  \tightlist
+  \item
+    \ldots{}claiming that \textbf{visa markets are better} than some
+    existing immigration policies.\\
+    \medskip
+  \item
+    \ldots{}bringing together \textbf{normative and utilitarian}
+    arguments for visa markets.\\
+    \medskip
+  \item
+    \ldots{}suggesting \textbf{visa markets should be seriously
+    considered} as immigration policy options.
+  \end{enumerate}
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}{Thank you!}
+\protect\hypertarget{thank-you}{}
+
+Andre Assumpcao\\
+Ph.D.~Candidate\\
+Department of Public Policy\\
+The University of North Carolina at Chapel Hill\\
+\url{https://aassumpcao.github.io}
+
+\end{frame}
+
+\end{document}
