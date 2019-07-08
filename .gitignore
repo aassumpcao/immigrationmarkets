@@ -233,6 +233,7 @@ TSWLatexianTemp*
 *.el
 /00-JAP-submission
 /01-PPE-submission
+/drafts
 
 # expex forward references with \gathertags
 *-tags.tex
